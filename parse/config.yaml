@@ -1,0 +1,2 @@
+randomInt: random.randint
+randomLowercase: generate_random_str
